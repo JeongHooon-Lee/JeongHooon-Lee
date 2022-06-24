@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github stats](https://github-readme-stats.vercel.app/api?username=JeongHooon-Lee&show_icons=true&theme=moltack)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sherryx)](https://solved.ac/sherryx)
 
