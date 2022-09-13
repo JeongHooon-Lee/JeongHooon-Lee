@@ -23,7 +23,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sherryx)](https://sol
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&&logo=Docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white)
 
 
 # Study
