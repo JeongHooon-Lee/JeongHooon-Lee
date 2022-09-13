@@ -20,7 +20,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sherryx)](https://sol
 # Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&&logo=Docker&logoColor=white)
 
 # Study
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white)
